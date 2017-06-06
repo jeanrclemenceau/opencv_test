@@ -10,4 +10,5 @@ Learning to use [OpenCV](http://opencv.org/) on Python
 ```shell
 conda create -n compvision python=2.7 numpy matplotlib
 conda install -n compvision -c
+conda install -c https://conda.binstar.org/menpo opencv
 ```
